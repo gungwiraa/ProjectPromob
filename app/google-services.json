@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601834960237",
+    "firebase_url": "https://loginscreen-gw11.firebaseio.com",
+    "project_id": "loginscreen-gw11",
+    "storage_bucket": "loginscreen-gw11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601834960237:android:4f8de2ad3562eca3",
+        "android_client_info": {
+          "package_name": "com.example.ux32vd.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601834960237-ucqk4u7dfh3el6pqm0nrl5so4poaso0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ux32vd.loginscreen",
+            "certificate_hash": "995546e6630aa369bcf0c014112b899bd9ccef6b"
+          }
+        },
+        {
+          "client_id": "601834960237-srt5p4v9t4vm77njj5cpkmkbakg78k91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6mjPL07YCW5bQQKzbMMhpFO3LDrY18c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601834960237-srt5p4v9t4vm77njj5cpkmkbakg78k91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
